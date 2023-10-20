@@ -1,0 +1,47 @@
+.class1 {
+    background: red;
+    width: 100%;
+    text-align: center;
+    padding: 5px 0;
+    font-size: 50px;
+}
+
+ .class1a {
+    font-size: 40px;
+} 
+
+
+
+.class2 {
+    background: green;
+    width: 100%;
+    text-align: center;
+    padding: 200px 0;
+    font-size: 50px;
+}
+
+.class3 {
+    background: blue;
+    width: 50%;
+    float: right;
+    text-align: center;
+    padding: 200px 0;
+    font-size: 50px
+
+}
+
+.class4 {
+    background: red;
+    width: 50%;
+    text-align: center;
+    padding: 200px 0;
+    font-size: 50px
+}
+
+.class5 {
+    background: orange;
+    width: 100%;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px
+}
